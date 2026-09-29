@@ -2,7 +2,7 @@
 
 A simple, fast personal site for a cybersecurity student and developer: who I am, what I'm building, and how to reach me.
 
-**Live site:** https://n.github.io/Website/
+**Live site:** https://nadjiho12.github.io/Website/
 
 ## Features
 
