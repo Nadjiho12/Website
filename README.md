@@ -25,11 +25,11 @@ NASIS (N-AI Security Intelligence System) is proprietary and closed source. The 
 
 ## Run locally
 
-Open `index.html` in any browser. There is nothing to install.
+Open `website.html` in any browser. There is nothing to install.
 
 ## Deploy with GitHub Pages
 
-1. Make sure `index.html` is in the root of the `main` branch.
+1. Make sure `website.html` is in the root of the `main` branch.
 2. Go to **Settings → Pages**.
 3. Under **Build and deployment**, set **Source** to **Deploy from a branch**, then choose **main** and **/ (root)**, and click **Save**.
 4. Wait a minute or two. The live URL appears at the top of the Pages settings.
